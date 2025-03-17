@@ -55,7 +55,7 @@ I actively solve problems on **LeetCode & Codeforces**.
 
 ## 📫 Connect with Me  
 📧 Email: [ts5192608@gmail.com](mailto:your-email@example.com)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tayyab-rehan11/))  
+🔗 LinkedIn: [https://www.linkedin.com/in/tayyab-rehan11/]([https://linkedin.com/in/yourprofile])  
 
 ---
 
