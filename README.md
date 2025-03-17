@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Tayyab Rehan!  
+🚀 **Web Developer | AI Enthusiast | Problem Solver**  
 
-<!--
-**tayyabrehan/tayyabrehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://github.com/TayyabRehan/TayyabRehan/blob/main/banner.png)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+I am a **Web Developer** with 5-6 months of experience, skilled in **HTML, CSS, PHP, Bootstrap, and Python**.  
+Passionate about **AI, Machine Learning, and building innovative solutions**.  
+
+💡 **Currently Working On:** AI-based apps using **Hugging Face & Groq API**  
+🎯 **Learning:** Advanced **Machine Learning & AI**  
+⚡ **Interests:** Web Development | AI | Competitive Programming  
+
+---
+
+## 💻 Tech Stack  
+**Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)  
+**Backend:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+**AI/ML:** ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFAA00?style=flat&logo=huggingface) ![Groq API](https://img.shields.io/badge/-Groq-00ADEF?style=flat&logo=groq)  
+**Tools:** ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)  
+
+---
+
+## 🏆 Competitive Programming & Problem Solving  
+I actively solve problems on **LeetCode & Codeforces**.  
+
+🏅 **LeetCode Profile:** [LeetCode Profile Link](https://leetcode.com/your-profile/)  
+🏆 **Best Contest Ranking:** XYZ Rank  
+🔥 **Total Problems Solved:** XYZ  
+
+---
+
+## 📜 Certifications  
+✔ **Data Structures & Algorithms - ICodeGuru**  
+✔ **AI & Machine Learning - Hugging Face Course**  
+✔ **Web Development - Udemy**  
+
+---
+
+## 📌 Featured Projects  
+🚀 **[AI Voice Assistant](https://github.com/your-voice-assistant)** – Converts voice to text & responds intelligently.  
+🌱 **[Plant Disease Detection](https://github.com/your-plant-app)** – Identifies plant diseases from images.  
+🤖 **[Chatbot with Groq API](https://github.com/your-chatbot)** – Smart chatbot using AI.  
+
+---
+
+## 📊 GitHub Stats  
+![Tayyab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TayyabRehan&show_icons=true&theme=radical)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabRehan&layout=compact&theme=radical)](https://github.com/TayyabRehan)
+
+---
+
+## 📫 Connect with Me  
+📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+
+---
+
+🚀 **Let's build something amazing together!** 😊  
