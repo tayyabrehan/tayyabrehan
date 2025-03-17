@@ -28,12 +28,12 @@ I actively solve problems on **LeetCode & Codeforces**.
 
 🏅 **LeetCode Profile:** [LeetCode Profile Link](https://leetcode.com/your-profile/)  
 🏆 **Best Contest Ranking:** XYZ Rank  
-🔥 **Total Problems Solved:** XYZ  
+🔥 **Total Problems Solved:** 81  
 
 ---
 
 ## 📜 Certifications  
-✔ **Data Structures & Algorithms - ICodeGuru**  
+✔ **Data Structures & Algorithms**  
 ✔ **AI & Machine Learning - Hugging Face Course**  
 ✔ **Web Development - Udemy**  
 
@@ -54,10 +54,8 @@ I actively solve problems on **LeetCode & Codeforces**.
 ---
 
 ## 📫 Connect with Me  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+📧 Email: [ts5192608@gmail.com](mailto:your-email@example.com)  
+🔗 LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tayyab-rehan11/))  
 
 ---
 
